@@ -13,5 +13,5 @@ vim - https://github.com/vim/vim
 
 neovim - https://github.com/neovim/neovim 
 
-Cheetsheet - http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html
+Cheatsheet - http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html
 vim airline - https://github.com/vim-airline/vim-airline
