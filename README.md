@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vim-airline 
 
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/cb%40256bit.org)
@@ -365,3 +366,8 @@ If you are interested in becoming a maintainer (we always welcome more maintaine
 [59]: https://github.com/neoclide/coc-git
 [60]: https://github.com/cdelledonne/vim-cmake
 [61]: http://github.com/lambdalisue/battery.vim/
+=======
+# Vim
+
+My vim settings for safekeeping
+>>>>>>> c4c1383d9a18e3cc24f57021cb7cfa813e0387e8
