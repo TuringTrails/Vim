@@ -9,7 +9,7 @@ My vim settings for safekeeping
 
 ## Reference
 
-vim - 
-neovim - 
+vim - https://github.com/vim/vim 
+neovim - https://github.com/neovim/neovim 
 
 vim airline - https://github.com/vim-airline/vim-airline
